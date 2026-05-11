@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "puppeteer": "^24.41.0",
+    "socket.io": "^4.8.3",
+    "tauri": "^0.15.0"
+  },
+  "devDependencies": {
+    "electron": "^41.2.0"
+  },
+  "name": "good5",
+  "version": "1.0.0",
+  "main": "hiro3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
